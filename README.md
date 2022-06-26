@@ -1,4 +1,4 @@
-THIS IS ONLY FOR EDUCATIONAL PURPOSES
+# THIS IS ONLY FOR EDUCATIONAL PURPOSES
 Nachbildung der Annotation von Minecraft
 ![image](https://cloud.rakutt.eu/apps/files_sharing/publicpreview/iRoH8XjMXTBMQPQ?x=1489&y=354&a=true&file=Minectraft-PluginCommunicationTest-Annotation.png&scalingup=0)
 Example von dem PluginMessageChannel
