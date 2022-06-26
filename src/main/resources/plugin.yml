@@ -1,0 +1,7 @@
+name: PluginTest
+version: '${project.version}'
+main: de.kleckzz.plugintest.bukkit.Main
+api-version: 1.18
+author: KeksGauner
+description: This is a test to test Communication between two Server
+website: https://cookieleaks.de
